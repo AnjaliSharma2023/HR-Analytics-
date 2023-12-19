@@ -6,17 +6,20 @@ Tools used: Excel and PowerBI
 
 Task performed:
 
-1.Data Cleaning:
+1. Data Importing from Excel to PowerBI 
+2.Data Cleaning:
 • Deleting redundant columns
 • Renaming the columns
 • Dropping duplicates
 • Cleaning individual columns
 • Remove the NaN values from the dataset
-
-2.Data transformation:
+3.Data transformation:
 • Creating groups
 • Modifying column categories
 • change data types
+4.Data Visualization
+
+
 
 
 
