@@ -5,6 +5,7 @@ Purpose:The primary objective is to gather and analyze HR data systematically, h
 Tools used: Excel and PowerBI
 
 Task performed:
+
 1.Data Cleaning:
 • Deleting redundant columns
 • Renaming the columns
